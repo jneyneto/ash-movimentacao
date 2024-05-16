@@ -17,6 +17,8 @@ body {
 }
 
 .game {
+  position: relative;
+
   width: 1280px;
   height: 720px;
 
@@ -24,8 +26,6 @@ body {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-
-  position: relative;
 }
 
 .character {
